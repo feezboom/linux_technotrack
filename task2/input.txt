@@ -1,0 +1,19 @@
+NEW_USER
+username1
+usergroup1 usergroup2
+/home/username1
+user1pass
+
+NEW_USER
+username2
+usergroup3 usergroup4
+/home/username2
+user2pass
+
+NEW_USER
+username3
+usergroup1 usergroup4
+/home/username3
+user3pass
+
+
